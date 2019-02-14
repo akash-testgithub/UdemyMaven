@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="85" started-at="2019-02-14T07:24:26Z" finished-at="2019-02-14T07:24:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="85" started-at="2019-02-14T07:24:26Z" finished-at="2019-02-14T07:24:26Z">
+      <class name="com.udemy.day2Test">
+        <test-method status="PASS" signature="TC_3()[pri:0, instance:com.udemy.day2Test@180bc464]" name="TC_3" duration-ms="0" started-at="2019-02-14T07:24:26Z" finished-at="2019-02-14T07:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_3 -->
+        <test-method status="PASS" signature="TC_4()[pri:0, instance:com.udemy.day2Test@180bc464]" name="TC_4" duration-ms="1" started-at="2019-02-14T07:24:26Z" finished-at="2019-02-14T07:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_4 -->
+      </class> <!-- com.udemy.day2Test -->
+      <class name="com.udemy.day3Test">
+        <test-method status="PASS" signature="TC_5(java.lang.String, java.lang.String)[pri:0, instance:com.udemy.day3Test@17550481]" name="TC_5" duration-ms="1" started-at="2019-02-14T07:24:26Z" data-provider="getData" finished-at="2019-02-14T07:24:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FirstName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_5 -->
+        <test-method status="PASS" signature="TC_5(java.lang.String, java.lang.String)[pri:0, instance:com.udemy.day3Test@17550481]" name="TC_5" duration-ms="0" started-at="2019-02-14T07:24:26Z" data-provider="getData" finished-at="2019-02-14T07:24:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SecondName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_5 -->
+        <test-method status="PASS" signature="TC_5(java.lang.String, java.lang.String)[pri:0, instance:com.udemy.day3Test@17550481]" name="TC_5" duration-ms="0" started-at="2019-02-14T07:24:26Z" data-provider="getData" finished-at="2019-02-14T07:24:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ThirdName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_5 -->
+        <test-method status="PASS" signature="TC_6()[pri:0, instance:com.udemy.day3Test@17550481]" name="TC_6" duration-ms="0" started-at="2019-02-14T07:24:26Z" finished-at="2019-02-14T07:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_6 -->
+      </class> <!-- com.udemy.day3Test -->
+      <class name="com.udemy.day1Test">
+        <test-method status="PASS" signature="TC_0(java.lang.String, java.lang.String)[pri:0, instance:com.udemy.day1Test@735f7ae5]" name="TC_0" duration-ms="1" started-at="2019-02-14T07:24:26Z" finished-at="2019-02-14T07:24:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[google.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xxxxxxxxxxxx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0 -->
+        <test-method status="PASS" signature="TC_1()[pri:0, instance:com.udemy.day1Test@735f7ae5]" name="TC_1" duration-ms="1" started-at="2019-02-14T07:24:26Z" finished-at="2019-02-14T07:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_1 -->
+        <test-method status="PASS" signature="TC_2()[pri:0, instance:com.udemy.day1Test@735f7ae5]" name="TC_2" duration-ms="0" started-at="2019-02-14T07:24:26Z" finished-at="2019-02-14T07:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_2 -->
+      </class> <!-- com.udemy.day1Test -->
+      <class name="com.udemy.day4Test">
+        <test-method status="PASS" signature="TC_7()[pri:0, instance:com.udemy.day4Test@783e6358]" name="TC_7" duration-ms="12" started-at="2019-02-14T07:24:26Z" finished-at="2019-02-14T07:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_7 -->
+        <test-method status="PASS" signature="TC_8()[pri:0, instance:com.udemy.day4Test@783e6358]" name="TC_8" duration-ms="0" started-at="2019-02-14T07:24:26Z" finished-at="2019-02-14T07:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_8 -->
+      </class> <!-- com.udemy.day4Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

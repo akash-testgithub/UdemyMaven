@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<parameter name="MainURL" value="google.com"/>
+<parameter name="APIKey" value="xxxxxxxxxxxx"/>
+
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.udemy.day4Test"/>
+      <class name="com.udemy.day3Test"/>
+      <class name="com.udemy.day1Test"/>
+      <class name="com.udemy.day2Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
